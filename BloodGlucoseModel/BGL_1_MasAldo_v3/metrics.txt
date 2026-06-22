@@ -1,0 +1,12 @@
+BGL-1: PPGBGL_v3 Baseline Mas Aldo
+7-Fold CV, 27 subjek
+
+MAE  : 22.15 mg/dL
+RMSE : 25.89 mg/dL
+
+Clarke EGA:
+  Zone A: 14/29 (48.3%)
+  Zone B: 15/29 (51.7%)
+  Zone C: 0/29 (0.0%)
+  Zone D: 0/29 (0.0%)
+  Zone E: 0/29 (0.0%)
