@@ -1,12 +1,12 @@
-BGL-1: PPGBGL_v3 Baseline Mas Aldo
+BGL-2: CNN + Squeeze-Excitation Block
 7-Fold CV, 27 subjek
 
-MAE  : 22.15 mg/dL
-RMSE : 25.89 mg/dL
+MAE  : 21.38 mg/dL
+RMSE : 25.53 mg/dL
 
 Clarke EGA:
-  Zone A: 14/29 (48.3%)
-  Zone B: 15/29 (51.7%)
+  Zone A: 17/29 (58.6%)
+  Zone B: 12/29 (41.4%)
   Zone C: 0/29 (0.0%)
   Zone D: 0/29 (0.0%)
   Zone E: 0/29 (0.0%)

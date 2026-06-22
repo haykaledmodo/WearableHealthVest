@@ -1,124 +1,124 @@
-[2026-06-21 07:00:56] ============================================================
-[2026-06-21 07:00:56]   BGL-1: PPGBGL_v3 Baseline Mas Aldo — 7-Fold 27 subj
-[2026-06-21 07:00:56] ============================================================
-[2026-06-21 07:00:56]   Loaded SUBJECT_001  glucose=84 mg/dL  n=24000
-[2026-06-21 07:00:56]   Loaded SUBJECT_002  glucose=141 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_003  glucose=144 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_004  glucose=88 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_006  glucose=115 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_007  glucose=141 mg/dL  n=18000
-[2026-06-21 07:00:56]   Loaded SUBJECT_008  glucose=76 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_009  glucose=93 mg/dL  n=24000
-[2026-06-21 07:00:56]   Loaded SUBJECT_010  glucose=131 mg/dL  n=24000
-[2026-06-21 07:00:56]   Loaded SUBJECT_011  glucose=92 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_012  glucose=103 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_013  glucose=92 mg/dL  n=30000
-[2026-06-21 07:00:56]   Loaded SUBJECT_014  glucose=91 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_015  glucose=136 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_016  glucose=98 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_017  glucose=93 mg/dL  n=24000
-[2026-06-21 07:00:57]   Loaded SUBJECT_018  glucose=84 mg/dL  n=24000
-[2026-06-21 07:00:57]   Loaded SUBJECT_019  glucose=127 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_020  glucose=120 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_021  glucose=115 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_022  glucose=95 mg/dL  n=18000
-[2026-06-21 07:00:57]   Loaded SUBJECT_023  glucose=91 mg/dL  n=24000
-[2026-06-21 07:00:57]   Loaded SUBJECT_024  glucose=134 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_025  glucose=82 mg/dL  n=18000
-[2026-06-21 07:00:57]   Loaded SUBJECT_A_1  glucose=95 mg/dL  n=30000
-[2026-06-21 07:00:57]   Loaded SUBJECT_A_2  glucose=122 mg/dL  n=30000
-[2026-06-21 07:00:58]   Loaded SUBJECT_A_3  glucose=90 mg/dL  n=30000
-[2026-06-21 07:00:58]   Loaded SUBJECT_A_5  glucose=114 mg/dL  n=30000
-[2026-06-21 07:00:58]   Loaded SUBJECT_A_6  glucose=98 mg/dL  n=30000
-[2026-06-21 07:00:58] 
+[2026-06-21 07:24:41] ============================================================
+[2026-06-21 07:24:41]   BGL-2: CNN + Squeeze-Excitation Block — 7-Fold 27 subj
+[2026-06-21 07:24:41] ============================================================
+[2026-06-21 07:24:41]   Loaded SUBJECT_001  glucose=84 mg/dL  n=24000
+[2026-06-21 07:24:41]   Loaded SUBJECT_002  glucose=141 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_003  glucose=144 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_004  glucose=88 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_006  glucose=115 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_007  glucose=141 mg/dL  n=18000
+[2026-06-21 07:24:41]   Loaded SUBJECT_008  glucose=76 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_009  glucose=93 mg/dL  n=24000
+[2026-06-21 07:24:41]   Loaded SUBJECT_010  glucose=131 mg/dL  n=24000
+[2026-06-21 07:24:41]   Loaded SUBJECT_011  glucose=92 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_012  glucose=103 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_013  glucose=92 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_014  glucose=91 mg/dL  n=30000
+[2026-06-21 07:24:41]   Loaded SUBJECT_015  glucose=136 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_016  glucose=98 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_017  glucose=93 mg/dL  n=24000
+[2026-06-21 07:24:42]   Loaded SUBJECT_018  glucose=84 mg/dL  n=24000
+[2026-06-21 07:24:42]   Loaded SUBJECT_019  glucose=127 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_020  glucose=120 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_021  glucose=115 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_022  glucose=95 mg/dL  n=18000
+[2026-06-21 07:24:42]   Loaded SUBJECT_023  glucose=91 mg/dL  n=24000
+[2026-06-21 07:24:42]   Loaded SUBJECT_024  glucose=134 mg/dL  n=30000
+[2026-06-21 07:24:42]   Loaded SUBJECT_025  glucose=82 mg/dL  n=18000
+[2026-06-21 07:24:42]   Loaded SUBJECT_A_1  glucose=95 mg/dL  n=30000
+[2026-06-21 07:24:43]   Loaded SUBJECT_A_2  glucose=122 mg/dL  n=30000
+[2026-06-21 07:24:43]   Loaded SUBJECT_A_3  glucose=90 mg/dL  n=30000
+[2026-06-21 07:24:43]   Loaded SUBJECT_A_5  glucose=114 mg/dL  n=30000
+[2026-06-21 07:24:43]   Loaded SUBJECT_A_6  glucose=98 mg/dL  n=30000
+[2026-06-21 07:24:43] 
   Total aktif: 29
-[2026-06-21 07:00:58]   Fold 1: ['SUBJECT_010', 'SUBJECT_002', 'SUBJECT_A_2', 'SUBJECT_006', 'SUBJECT_016']
-[2026-06-21 07:00:58]   Fold 2: ['SUBJECT_018', 'SUBJECT_023', 'SUBJECT_024', 'SUBJECT_021']
-[2026-06-21 07:00:58]   Fold 3: ['SUBJECT_001', 'SUBJECT_A_5', 'SUBJECT_007', 'SUBJECT_019', 'SUBJECT_008']
-[2026-06-21 07:00:58]   Fold 4: ['SUBJECT_020', 'SUBJECT_003', 'SUBJECT_022']
-[2026-06-21 07:00:58]   Fold 5: ['SUBJECT_013', 'SUBJECT_014', 'SUBJECT_025']
-[2026-06-21 07:00:58]   Fold 6: ['SUBJECT_011', 'SUBJECT_A_6', 'SUBJECT_017', 'SUBJECT_009', 'SUBJECT_A_3']
-[2026-06-21 07:00:58]   Fold 7: ['SUBJECT_015', 'SUBJECT_004', 'SUBJECT_A_1', 'SUBJECT_012']
-[2026-06-21 07:00:58] 
+[2026-06-21 07:24:43]   Fold 1: ['SUBJECT_010', 'SUBJECT_002', 'SUBJECT_A_2', 'SUBJECT_006', 'SUBJECT_016']
+[2026-06-21 07:24:43]   Fold 2: ['SUBJECT_018', 'SUBJECT_023', 'SUBJECT_024', 'SUBJECT_021']
+[2026-06-21 07:24:43]   Fold 3: ['SUBJECT_001', 'SUBJECT_A_5', 'SUBJECT_007', 'SUBJECT_019', 'SUBJECT_008']
+[2026-06-21 07:24:43]   Fold 4: ['SUBJECT_020', 'SUBJECT_003', 'SUBJECT_022']
+[2026-06-21 07:24:43]   Fold 5: ['SUBJECT_013', 'SUBJECT_014', 'SUBJECT_025']
+[2026-06-21 07:24:43]   Fold 6: ['SUBJECT_011', 'SUBJECT_A_6', 'SUBJECT_017', 'SUBJECT_009', 'SUBJECT_A_3']
+[2026-06-21 07:24:43]   Fold 7: ['SUBJECT_015', 'SUBJECT_004', 'SUBJECT_A_1', 'SUBJECT_012']
+[2026-06-21 07:24:43] 
   ══════ Fold 1/7 ══════
-[2026-06-21 07:00:58]   Test: ['SUBJECT_010', 'SUBJECT_002', 'SUBJECT_A_2', 'SUBJECT_006', 'SUBJECT_016']  Val: ['SUBJECT_003', 'SUBJECT_018']  Train: 22 subj
-[2026-06-21 07:01:00]   Train: 5,582 windows  |  Val: 102 windows
-[2026-06-21 07:03:16]   Selesai epoch=8  val_loss=317.1858  durasi=139s
-[2026-06-21 07:03:20]   HASIL SUBJECT_010  GT:131  Pred:106.3  Err:-24.7  Zone:A
-[2026-06-21 07:03:21]   HASIL SUBJECT_002  GT:141  Pred:112.3  Err:-28.7  Zone:B
-[2026-06-21 07:03:21]   HASIL SUBJECT_A_2  GT:122  Pred:107.0  Err:-15.0  Zone:A
-[2026-06-21 07:03:21]   HASIL SUBJECT_006  GT:115  Pred:93.6  Err:-21.4  Zone:A
-[2026-06-21 07:03:21]   HASIL SUBJECT_016  GT:98  Pred:100.7  Err:+2.7  Zone:A
-[2026-06-21 07:03:21] 
+[2026-06-21 07:24:43]   Test: ['SUBJECT_010', 'SUBJECT_002', 'SUBJECT_A_2', 'SUBJECT_006', 'SUBJECT_016']  Val: ['SUBJECT_003', 'SUBJECT_018']  Train: 22 subj
+[2026-06-21 07:24:44]   Train: 5,582 windows  |  Val: 102 windows
+[2026-06-21 07:27:34]   Selesai epoch=10  val_loss=293.2421  durasi=172s
+[2026-06-21 07:27:37]   HASIL SUBJECT_010  GT:131  Pred:109.8  Err:-21.2  Zone:A
+[2026-06-21 07:27:43]   HASIL SUBJECT_002  GT:141  Pred:119.2  Err:-21.8  Zone:A
+[2026-06-21 07:27:43]   HASIL SUBJECT_A_2  GT:122  Pred:114.6  Err:-7.4  Zone:A
+[2026-06-21 07:27:43]   HASIL SUBJECT_006  GT:115  Pred:96.5  Err:-18.5  Zone:A
+[2026-06-21 07:27:45]   HASIL SUBJECT_016  GT:98  Pred:100.6  Err:+2.6  Zone:A
+[2026-06-21 07:27:45] 
   ══════ Fold 2/7 ══════
-[2026-06-21 07:03:21]   Test: ['SUBJECT_018', 'SUBJECT_023', 'SUBJECT_024', 'SUBJECT_021']  Val: ['SUBJECT_006', 'SUBJECT_015']  Train: 23 subj
-[2026-06-21 07:03:23]   Train: 5,863 windows  |  Val: 114 windows
-[2026-06-21 07:07:29]   Selesai epoch=29  val_loss=261.5544  durasi=248s
-[2026-06-21 07:07:29]   HASIL SUBJECT_018  GT:84  Pred:119.1  Err:+35.1  Zone:B
-[2026-06-21 07:07:30]   HASIL SUBJECT_023  GT:91  Pred:111.6  Err:+20.6  Zone:B
-[2026-06-21 07:07:31]   HASIL SUBJECT_024  GT:134  Pred:102.9  Err:-31.1  Zone:B
-[2026-06-21 07:07:32]   HASIL SUBJECT_021  GT:115  Pred:80.2  Err:-34.8  Zone:B
-[2026-06-21 07:07:32] 
+[2026-06-21 07:27:45]   Test: ['SUBJECT_018', 'SUBJECT_023', 'SUBJECT_024', 'SUBJECT_021']  Val: ['SUBJECT_006', 'SUBJECT_015']  Train: 23 subj
+[2026-06-21 07:27:46]   Train: 5,863 windows  |  Val: 114 windows
+[2026-06-21 07:30:45]   Selesai epoch=9  val_loss=197.2160  durasi=180s
+[2026-06-21 07:30:46]   HASIL SUBJECT_018  GT:84  Pred:116.9  Err:+32.9  Zone:B
+[2026-06-21 07:30:47]   HASIL SUBJECT_023  GT:91  Pred:108.8  Err:+17.8  Zone:A
+[2026-06-21 07:30:49]   HASIL SUBJECT_024  GT:134  Pred:109.6  Err:-24.4  Zone:A
+[2026-06-21 07:30:50]   HASIL SUBJECT_021  GT:115  Pred:86.0  Err:-29.0  Zone:B
+[2026-06-21 07:30:50] 
   ══════ Fold 3/7 ══════
-[2026-06-21 07:07:32]   Test: ['SUBJECT_001', 'SUBJECT_A_5', 'SUBJECT_007', 'SUBJECT_019', 'SUBJECT_008']  Val: ['SUBJECT_010', 'SUBJECT_020']  Train: 22 subj
-[2026-06-21 07:07:33]   Train: 5,702 windows  |  Val: 102 windows
-[2026-06-21 07:10:19]   Selesai epoch=14  val_loss=132.5036  durasi=167s
-[2026-06-21 07:10:21]   HASIL SUBJECT_001  GT:84  Pred:91.7  Err:+7.7  Zone:A
-[2026-06-21 07:10:21]   HASIL SUBJECT_A_5  GT:114  Pred:98.4  Err:-15.6  Zone:A
-[2026-06-21 07:10:22]   HASIL SUBJECT_007  GT:141  Pred:106.7  Err:-34.3  Zone:B
-[2026-06-21 07:10:23]   HASIL SUBJECT_019  GT:127  Pred:103.3  Err:-23.7  Zone:A
-[2026-06-21 07:10:23]   HASIL SUBJECT_008  GT:76  Pred:110.3  Err:+34.3  Zone:B
-[2026-06-21 07:10:23] 
+[2026-06-21 07:30:50]   Test: ['SUBJECT_001', 'SUBJECT_A_5', 'SUBJECT_007', 'SUBJECT_019', 'SUBJECT_008']  Val: ['SUBJECT_010', 'SUBJECT_020']  Train: 22 subj
+[2026-06-21 07:30:51]   Train: 5,702 windows  |  Val: 102 windows
+[2026-06-21 07:33:21]   Selesai epoch=4  val_loss=133.7446  durasi=150s
+[2026-06-21 07:33:23]   HASIL SUBJECT_001  GT:84  Pred:86.6  Err:+2.6  Zone:A
+[2026-06-21 07:33:26]   HASIL SUBJECT_A_5  GT:114  Pred:93.3  Err:-20.7  Zone:A
+[2026-06-21 07:33:29]   HASIL SUBJECT_007  GT:141  Pred:110.0  Err:-31.0  Zone:B
+[2026-06-21 07:33:29]   HASIL SUBJECT_019  GT:127  Pred:100.0  Err:-27.0  Zone:B
+[2026-06-21 07:33:29]   HASIL SUBJECT_008  GT:76  Pred:98.1  Err:+22.1  Zone:B
+[2026-06-21 07:33:31] 
   ══════ Fold 4/7 ══════
-[2026-06-21 07:10:23]   Test: ['SUBJECT_020', 'SUBJECT_003', 'SUBJECT_022']  Val: ['SUBJECT_010', 'SUBJECT_019']  Train: 24 subj
-[2026-06-21 07:10:25]   Train: 6,204 windows  |  Val: 102 windows
-[2026-06-21 07:16:30]   Selesai epoch=51  val_loss=113.7319  durasi=367s
-[2026-06-21 07:16:32]   HASIL SUBJECT_020  GT:120  Pred:101.9  Err:-18.1  Zone:A
-[2026-06-21 07:16:32]   HASIL SUBJECT_003  GT:144  Pred:82.9  Err:-61.1  Zone:B
-[2026-06-21 07:16:32]   HASIL SUBJECT_022  GT:95  Pred:95.3  Err:+0.3  Zone:A
-[2026-06-21 07:16:33] 
+[2026-06-21 07:33:31]   Test: ['SUBJECT_020', 'SUBJECT_003', 'SUBJECT_022']  Val: ['SUBJECT_010', 'SUBJECT_019']  Train: 24 subj
+[2026-06-21 07:33:34]   Train: 6,204 windows  |  Val: 102 windows
+[2026-06-21 07:41:06]   Selesai epoch=57  val_loss=144.7446  durasi=455s
+[2026-06-21 07:41:08]   HASIL SUBJECT_020  GT:120  Pred:105.6  Err:-14.4  Zone:A
+[2026-06-21 07:41:08]   HASIL SUBJECT_003  GT:144  Pred:87.1  Err:-56.9  Zone:B
+[2026-06-21 07:41:09]   HASIL SUBJECT_022  GT:95  Pred:94.4  Err:-0.6  Zone:A
+[2026-06-21 07:41:11] 
   ══════ Fold 5/7 ══════
-[2026-06-21 07:16:33]   Test: ['SUBJECT_013', 'SUBJECT_014', 'SUBJECT_025']  Val: ['SUBJECT_010', 'SUBJECT_021']  Train: 24 subj
-[2026-06-21 07:16:34]   Train: 6,204 windows  |  Val: 102 windows
-[2026-06-21 07:20:14]   Selesai epoch=22  val_loss=51.0290  durasi=222s
-[2026-06-21 07:20:15]   HASIL SUBJECT_013  GT:92  Pred:114.6  Err:+22.6  Zone:B
-[2026-06-21 07:20:16]   HASIL SUBJECT_014  GT:91  Pred:116.5  Err:+25.5  Zone:B
-[2026-06-21 07:20:17]   HASIL SUBJECT_025  GT:82  Pred:101.0  Err:+19.0  Zone:B
-[2026-06-21 07:20:17] 
+[2026-06-21 07:41:11]   Test: ['SUBJECT_013', 'SUBJECT_014', 'SUBJECT_025']  Val: ['SUBJECT_010', 'SUBJECT_021']  Train: 24 subj
+[2026-06-21 07:41:12]   Train: 6,204 windows  |  Val: 102 windows
+[2026-06-21 07:44:02]   Selesai epoch=6  val_loss=75.9165  durasi=172s
+[2026-06-21 07:44:05]   HASIL SUBJECT_013  GT:92  Pred:107.4  Err:+15.4  Zone:A
+[2026-06-21 07:44:05]   HASIL SUBJECT_014  GT:91  Pred:112.1  Err:+21.1  Zone:B
+[2026-06-21 07:44:06]   HASIL SUBJECT_025  GT:82  Pred:104.2  Err:+22.2  Zone:B
+[2026-06-21 07:44:08] 
   ══════ Fold 6/7 ══════
-[2026-06-21 07:20:17]   Test: ['SUBJECT_011', 'SUBJECT_A_6', 'SUBJECT_017', 'SUBJECT_009', 'SUBJECT_A_3']  Val: ['SUBJECT_012', 'SUBJECT_022']  Train: 22 subj
-[2026-06-21 07:20:18]   Train: 5,702 windows  |  Val: 90 windows
-[2026-06-21 07:22:38]   Selesai epoch=8  val_loss=47.8663  durasi=141s
-[2026-06-21 07:22:40]   HASIL SUBJECT_011  GT:92  Pred:133.5  Err:+41.5  Zone:B
-[2026-06-21 07:22:40]   HASIL SUBJECT_A_6  GT:98  Pred:104.0  Err:+6.0  Zone:A
-[2026-06-21 07:22:40]   HASIL SUBJECT_017  GT:93  Pred:104.7  Err:+11.7  Zone:A
-[2026-06-21 07:22:40]   HASIL SUBJECT_009  GT:93  Pred:121.7  Err:+28.7  Zone:B
-[2026-06-21 07:22:40]   HASIL SUBJECT_A_3  GT:90  Pred:118.2  Err:+28.2  Zone:B
-[2026-06-21 07:22:40] 
+[2026-06-21 07:44:08]   Test: ['SUBJECT_011', 'SUBJECT_A_6', 'SUBJECT_017', 'SUBJECT_009', 'SUBJECT_A_3']  Val: ['SUBJECT_012', 'SUBJECT_022']  Train: 22 subj
+[2026-06-21 07:44:08]   Train: 5,702 windows  |  Val: 90 windows
+[2026-06-21 07:47:15]   Selesai epoch=12  val_loss=43.0095  durasi=188s
+[2026-06-21 07:47:20]   HASIL SUBJECT_011  GT:92  Pred:148.8  Err:+56.8  Zone:B
+[2026-06-21 07:47:20]   HASIL SUBJECT_A_6  GT:98  Pred:108.0  Err:+10.0  Zone:A
+[2026-06-21 07:47:22]   HASIL SUBJECT_017  GT:93  Pred:103.0  Err:+10.0  Zone:A
+[2026-06-21 07:47:22]   HASIL SUBJECT_009  GT:93  Pred:124.4  Err:+31.4  Zone:B
+[2026-06-21 07:47:22]   HASIL SUBJECT_A_3  GT:90  Pred:121.7  Err:+31.7  Zone:B
+[2026-06-21 07:47:23] 
   ══════ Fold 7/7 ══════
-[2026-06-21 07:22:40]   Test: ['SUBJECT_015', 'SUBJECT_004', 'SUBJECT_A_1', 'SUBJECT_012']  Val: ['SUBJECT_014', 'SUBJECT_023']  Train: 23 subj
-[2026-06-21 07:22:43]   Train: 5,803 windows  |  Val: 102 windows
-[2026-06-21 07:24:40]   Selesai epoch=2  val_loss=47.8778  durasi=119s
-[2026-06-21 07:24:40]   HASIL SUBJECT_015  GT:136  Pred:104.0  Err:-32.0  Zone:B
-[2026-06-21 07:24:40]   HASIL SUBJECT_004  GT:88  Pred:98.6  Err:+10.6  Zone:A
-[2026-06-21 07:24:40]   HASIL SUBJECT_A_1  GT:95  Pred:96.3  Err:+1.3  Zone:A
-[2026-06-21 07:24:40]   HASIL SUBJECT_012  GT:103  Pred:96.7  Err:-6.3  Zone:A
-[2026-06-21 07:24:40] 
+[2026-06-21 07:47:23]   Test: ['SUBJECT_015', 'SUBJECT_004', 'SUBJECT_A_1', 'SUBJECT_012']  Val: ['SUBJECT_014', 'SUBJECT_023']  Train: 23 subj
+[2026-06-21 07:47:24]   Train: 5,803 windows  |  Val: 102 windows
+[2026-06-21 07:49:36]   Selesai epoch=2  val_loss=37.5370  durasi=134s
+[2026-06-21 07:49:39]   HASIL SUBJECT_015  GT:136  Pred:94.0  Err:-42.0  Zone:B
+[2026-06-21 07:49:39]   HASIL SUBJECT_004  GT:88  Pred:92.6  Err:+4.6  Zone:A
+[2026-06-21 07:49:39]   HASIL SUBJECT_A_1  GT:95  Pred:86.3  Err:-8.7  Zone:A
+[2026-06-21 07:49:41]   HASIL SUBJECT_012  GT:103  Pred:87.9  Err:-15.1  Zone:A
+[2026-06-21 07:49:41] 
   ╔══════════════════════════════════════════╗
-[2026-06-21 07:24:40]   ║  RINGKASAN FINAL BGL-1 (27 subjek)
-[2026-06-21 07:24:40]   ║  MAE=22.15 mg/dL  RMSE=25.89 mg/dL
-[2026-06-21 07:24:40]   ║  Zone A: 14/29 (48.3%)
-[2026-06-21 07:24:40]   ║  Zone B: 15/29 (51.7%)
-[2026-06-21 07:24:40]   ║  Zone C: 0/29 (0.0%)
-[2026-06-21 07:24:40]   ║  Zone D: 0/29 (0.0%)
-[2026-06-21 07:24:40]   ║  Zone E: 0/29 (0.0%)
-[2026-06-21 07:24:40]   ╚══════════════════════════════════════════╝
-[2026-06-21 07:24:40]   Clarke EGA disimpan: /mnt/d/File Umum/Tugas Akhir (Post Seminar Proposal)/Akuisisi Data Tugas Akhir Haykal Nadhif/Analisis Data Tugas Akhir Haykal Nadhif/Analisis Blood Glucose/Hasil_Eksperimen_BGL/BGL_1_Aldo_v3/clarke_ega.png
-[2026-06-21 07:24:40]     Zone A: 14/29 (48.3%)
-[2026-06-21 07:24:40]     Zone B: 15/29 (51.7%)
-[2026-06-21 07:24:40]     Zone C: 0/29 (0.0%)
-[2026-06-21 07:24:40]     Zone D: 0/29 (0.0%)
-[2026-06-21 07:24:40]     Zone E: 0/29 (0.0%)
-[2026-06-21 07:24:40]   Training curves disimpan: /mnt/d/File Umum/Tugas Akhir (Post Seminar Proposal)/Akuisisi Data Tugas Akhir Haykal Nadhif/Analisis Data Tugas Akhir Haykal Nadhif/Analisis Blood Glucose/Hasil_Eksperimen_BGL/BGL_1_Aldo_v3/training_curves.png
-[2026-06-21 07:24:40] 
+[2026-06-21 07:49:41]   ║  RINGKASAN FINAL BGL-2 (27 subjek)
+[2026-06-21 07:49:41]   ║  MAE=21.38 mg/dL  RMSE=25.53 mg/dL
+[2026-06-21 07:49:41]   ║  Zone A: 17/29 (58.6%)
+[2026-06-21 07:49:41]   ║  Zone B: 12/29 (41.4%)
+[2026-06-21 07:49:41]   ║  Zone C: 0/29 (0.0%)
+[2026-06-21 07:49:41]   ║  Zone D: 0/29 (0.0%)
+[2026-06-21 07:49:41]   ║  Zone E: 0/29 (0.0%)
+[2026-06-21 07:49:41]   ╚══════════════════════════════════════════╝
+[2026-06-21 07:49:41]   Clarke EGA disimpan: /mnt/d/File Umum/Tugas Akhir (Post Seminar Proposal)/Akuisisi Data Tugas Akhir Haykal Nadhif/Analisis Data Tugas Akhir Haykal Nadhif/Analisis Blood Glucose/Hasil_Eksperimen_BGL/BGL_2_CNN_SE/clarke_ega.png
+[2026-06-21 07:49:41]     Zone A: 17/29 (58.6%)
+[2026-06-21 07:49:41]     Zone B: 12/29 (41.4%)
+[2026-06-21 07:49:41]     Zone C: 0/29 (0.0%)
+[2026-06-21 07:49:41]     Zone D: 0/29 (0.0%)
+[2026-06-21 07:49:41]     Zone E: 0/29 (0.0%)
+[2026-06-21 07:49:41]   Training curves disimpan: /mnt/d/File Umum/Tugas Akhir (Post Seminar Proposal)/Akuisisi Data Tugas Akhir Haykal Nadhif/Analisis Data Tugas Akhir Haykal Nadhif/Analisis Blood Glucose/Hasil_Eksperimen_BGL/BGL_2_CNN_SE/training_curves.png
+[2026-06-21 07:49:41] 
 SELESAI.
